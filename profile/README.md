@@ -1,6 +1,6 @@
 # `NameSys.eth` Stack
 
-## `CCIP2.eth` Gasless Resolver
+## a) `CCIP2.eth` Gasless Resolver
 
 ### Clients
 
@@ -18,7 +18,7 @@ Goerli: [`0xd23aa5545350cdb4eb6bf705d1fe8b75c99500a8`](https://goerli.etherscan.
 
 Mainnet: `Coming Soon...`
 
-## `IPFS2.eth` Web3 IPFS Gateway
+## b) `IPFS2.eth` Web3 IPFS Gateway
 
 Link: [`https://ipfs2.istest.istest.eth.limo`](https://ipfs2.istest.istest.eth.limo)
 
@@ -26,7 +26,7 @@ Goerli: [`0x6418fc3db67e3c7a6aeafcb5a6416ccd6b75ef30`](https://goerli.etherscan.
 
 Mainnet: `Coming Soon...`
 
-## `isTest.eth`
+## c) `isTest.eth`
 
 Link: [`https://istest.istest.eth.limo`](https://istest.istest.eth.limo)
 
