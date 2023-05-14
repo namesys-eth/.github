@@ -24,7 +24,7 @@
 | 🧬 **Mainnet** | `Coming Soon` |
 | 🔗 **.ETH** | [`https://ipfs2.istest.istest.eth.limo`](https://ipfs2.istest.istest.eth.limo) |
 
-## c) `isTest.eth` Contenthash Mapper DevTool
+## c) `isTest.eth` Developer Tool
 
 | Network | Resource | 
 | -------- | -------- | 
