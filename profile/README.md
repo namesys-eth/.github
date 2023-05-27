@@ -2,18 +2,18 @@
 
 ## a) `CCIP2.eth` Gasless Resolver
 
-### ⚙️ Clients
+### ⚙️&nbsp; Clients
 
 | Release | Link-1 | Link-2 |
 | -------- | -------- | -------- |
 | **Beta-0.9** | [`https://ccip2.eth.limo`](https://ccip2.eth.limo) | [`https://namesys.eth.limo`](https://namesys.eth.limo) |
 | **v1.0** | `Coming Soon` | - |
 
-### 📄 Resolver
+### 📄&nbsp; Resolver
 
 | Network | Contract | 
 | -------- | -------- | 
-| 🧪 **Goerli** | `Coming Soon` | 
+| 🧪 **Goerli** | [`0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec`](https://goerli.etherscan.io/address/0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec#code) | 
 | 🧬 **Mainnet** | `Coming Soon` | 
 
 ## b) `IPFS2.eth` Web3 IPFS Gateway
