@@ -13,16 +13,16 @@
 
 | Network | Contract | 
 | -------- | -------- | 
-| 🧪 **Goerli** | [`0xaa3d2c2811141ba4eb0ad0a369cb472151e49089`](https://goerli.etherscan.io/address/0xaa3d2c2811141ba4eb0ad0a369cb472151e49089#code) | 
-| 🧬 **Mainnet** | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
+| 🧪 **Goerli** | `Coming Soon` | 
+| 🧬 **Mainnet** | `Coming Soon` | 
 
 ## b) `IPFS2.eth` Web3 IPFS Gateway
 
 | Network | Resource | 
 | -------- | -------- | 
-| 🧪 **Goerli** | [`0x6418fc3db67e3c7a6aeafcb5a6416ccd6b75ef30`](https://goerli.etherscan.io/address/0x6418fc3db67e3c7a6aeafcb5a6416ccd6b75ef30#code) | 
-| 🧬 **Mainnet** | `Coming Soon` |
-| 🔗 **.ETH** | [`https://ipfs2.istest.istest.eth.limo`](https://ipfs2.istest.istest.eth.limo) |
+| 🧪 **Goerli** | [`0xaa3d2c2811141ba4eb0ad0a369cb472151e49089`](https://goerli.etherscan.io/address/0xaa3d2c2811141ba4eb0ad0a369cb472151e49089#code) | 
+| 🧬 **Mainnet** | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
+| 🔗 **.ETH** | [`https://ipfs2.istest.istest.eth.limo`](https://ipfs2.namesys.eth.limo) |
 
 ## c) `isTest.eth` Developer Tool
 
