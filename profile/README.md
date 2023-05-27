@@ -13,8 +13,8 @@
 
 | Network | Contract | 
 | -------- | -------- | 
-| 🧪 **Goerli** | [`0xd23aa5545350cdb4eb6bf705d1fe8b75c99500a8`](https://goerli.etherscan.io/address/0xd23aa5545350cdb4eb6bf705d1fe8b75c99500a8#code) | 
-| 🧬 **Mainnet** | `Coming Soon` | 
+| 🧪 **Goerli** | [`0xaa3d2c2811141ba4eb0ad0a369cb472151e49089`](https://goerli.etherscan.io/address/0xaa3d2c2811141ba4eb0ad0a369cb472151e49089#code) | 
+| 🧬 **Mainnet** | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
 
 ## b) `IPFS2.eth` Web3 IPFS Gateway
 
