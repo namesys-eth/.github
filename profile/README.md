@@ -6,7 +6,7 @@
 
 | Release | Link-1 | Link-2 |
 | -------- | -------- | -------- |
-| **Beta-0.9** | [`https://ccip2.eth.limo`](https://ccip2.eth.limo) | [`https://namesys.eth.limo`](https://namesys.eth.limo) |
+| **Beta-0.9** | [`https://CCIP2.eth.limo`](https://ccip2.eth.limo) | [`https://NameSys.eth.limo`](https://namesys.eth.limo) |
 | **v1.0** | `Coming Soon` | - |
 
 ### 📄&nbsp; Resolver
@@ -22,7 +22,7 @@
 | -------- | -------- | 
 | 🧪 **Goerli** | [`0xaa3d2c2811141ba4eb0ad0a369cb472151e49089`](https://goerli.etherscan.io/address/0xaa3d2c2811141ba4eb0ad0a369cb472151e49089#code) | 
 | 🧬 **Mainnet** | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
-| 🔗 **.ETH** | [`https://ipfs2.istest.istest.eth.limo`](https://ipfs2.namesys.eth.limo) |
+| 🔗 **.ETH** | [`https://IPFS2.isTest.isTest.eth.limo`](https://ipfs2.istest.istest.eth.limo) \| [`https://IPFS2.isTest.eth.limo`](https://ipfs2.istest.eth.limo) |
 
 ## c) `isTest.eth` Developer Tool
 
@@ -30,5 +30,5 @@
 | -------- | -------- | 
 | 🧪 **Goerli** | [`0x1EA6EFb27f4013D3A16E298a69C869C73CDB3479`](https://goerli.etherscan.io/address/0x1EA6EFb27f4013D3A16E298a69C869C73CDB3479#code) | 
 | 🧬 **Mainnet** | [`0x0Db7E56BFE3cbCD7B952F750c303CbF809585C6b`](https://etherscan.io/address/0x0Db7E56BFE3cbCD7B952F750c303CbF809585C6b#code) |
-| 🔗 **.ETH** | [`https://istest.istest.eth.limo`](https://istest.istest.eth.limo) |
+| 🔗 **.ETH** | [`https://isTest.isTest.eth.limo`](https://istest.istest.eth.limo) |
 
