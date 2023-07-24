@@ -6,14 +6,14 @@
 
 | Release | Link-1 | Link-2 |
 | -------- | -------- | -------- |
-| **`v1.0.0`** | [`https://CCIP2.eth.limo`](https://ccip2.eth.limo) | [`https://NameSys.eth.limo`](https://namesys.eth.limo) |
+| **`v1.0.0-beta`** | [`https://CCIP2.eth.limo`](https://ccip2.eth.limo) | [`https://NameSys.eth.limo`](https://namesys.eth.limo) |
 
 ### 📄&nbsp; Resolver
 
-| Network | Contract | 
-| -------- | -------- | 
-| 🧪 **Goerli** | [`0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec`](https://goerli.etherscan.io/address/0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec#code) | 
-| 🧬 **Mainnet** | [`0x57532d78FfBcC6ac5534A9b39899C7eC89082CdA`](https://etherscan.io/address/0x57532d78FfBcC6ac5534A9b39899C7eC89082CdA#code) | 
+| Network | Release |Contract | 
+| -------- | -------- | -------- | 
+| 🧪 **Goerli** | `latest` | [`0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec`](https://goerli.etherscan.io/address/0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec#code) | 
+| 🧬 **Mainnet** | `v1.0.0-beta` | [`0x57532d78FfBcC6ac5534A9b39899C7eC89082CdA`](https://etherscan.io/address/0x57532d78FfBcC6ac5534A9b39899C7eC89082CdA#code) | 
 
 ## b) `IPFS2.eth` Web3 IPFS Gateway
 
