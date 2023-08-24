@@ -12,8 +12,8 @@
 
 | Network | Release | Contract | 
 | -------- | -------- | -------- | 
-| 🧪 **Goerli** | `latest` | [`0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec`](https://goerli.etherscan.io/address/0xBbee991706505b4c0c7A2e1A897bE7975CD285Ec#code) | 
-| 🧬 **Mainnet** | `v1.0.0-beta` | [`0x57532d78FfBcC6ac5534A9b39899C7eC89082CdA`](https://etherscan.io/address/0x57532d78FfBcC6ac5534A9b39899C7eC89082CdA#code) | 
+| 🧪 **Goerli** | `latest` | [`0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb`](https://goerli.etherscan.io/address/0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb#code) | 
+| 🧬 **Mainnet** | `v1.0.0` | [`0x839B3B540A9572448FD1B2335e0EB09Ac1A02885`](https://etherscan.io/address/0x839B3B540A9572448FD1B2335e0EB09Ac1A02885#code) | 
 
 ## b) `IPFS2.eth` Web3 IPFS Gateway
 
