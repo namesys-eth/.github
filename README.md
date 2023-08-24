@@ -2,18 +2,18 @@
 
 ## `CCIP2.eth` Gasless Resolver
 
-### Beta Client
+### Client
 
-Link: [`https://ccip2.eth.limo`](https://ccip2.eth.limo)
+Link 1: [`https://NameSys.xyz`](https://namesys.xyz)
 
-### Alpha Client
+Link 2: [`https://NameSys.eth.limo`](https://namesys.eth.limo)
 
-Link: [`https://namesys.eth.limo`](https://namesys.eth.limo)
+Link 3: [`https://CCIP2.eth.limo`](https://ccip2.eth.limo)
 
 ## `IPFS2.eth` Web3 IPFS Gateway
 
-Link: [`https://ipfs2.istest.istest.eth.limo`](https://ipfs2.istest.istest.eth.limo)
+Link: [`https://IPFS2.eth.limo`](https://ipfs2.eth.limo)
 
 ## `isTest.eth`
 
-Link: [`https://istest.istest.eth.limo`](https://istest.istest.eth.limo)
+Link: [`https://isTest.eth.limo`](https://istest.eth.limo)
