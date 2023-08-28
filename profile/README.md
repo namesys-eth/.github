@@ -1,5 +1,12 @@
 # `NameSys.eth` Stack
 
+## 📄&nbsp; Documentation
+
+- [`SPECIFICATION.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/README.md)
+- [`FAQ.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/INTRO.md)
+- [`SUMMARY.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/EASYREAD.md)
+- [`GUIDE.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/GUIDE.md)
+
 ## a) `CCIP2.eth` Gasless Resolver
 
 ### ⚙️&nbsp; Clients
