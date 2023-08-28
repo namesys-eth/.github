@@ -1,13 +1,13 @@
 # `NameSys.eth` Stack
 
-## 📄&nbsp; Documentation
+## 📄&nbsp; `NameSys.eth` Documentation
 
 - [`SPECIFICATION.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/README.md)
 - [`FAQ.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/INTRO.md)
 - [`SUMMARY.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/EASYREAD.md)
 - [`GUIDE.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/GUIDE.md)
 
-## a) `CCIP2.eth` Gasless Resolver
+## 💡 `CCIP2.eth` Gasless Resolver
 
 ### ⚙️&nbsp; Clients
 
@@ -22,7 +22,7 @@
 | 🧪 **Goerli** | `latest` | [`0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb`](https://goerli.etherscan.io/address/0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb#code) | 
 | 🧬 **Mainnet** | `v1.0.0` | [`0x839B3B540A9572448FD1B2335e0EB09Ac1A02885`](https://etherscan.io/address/0x839B3B540A9572448FD1B2335e0EB09Ac1A02885#code) | 
 
-## b) `IPFS2.eth` Web3 IPFS Gateway
+## 💡 `IPFS2.eth` Web3 IPFS Gateway
 
 | Network | Release | Contract | 
 | -------- | -------- | -------- | 
@@ -30,7 +30,7 @@
 | 🧬 **Mainnet** | `v1.0.0-beta` | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
 | 🔗 **Client** | `latest` | [`https://IPFS2.eth.limo`](https://ipfs2.eth.limo) |
 
-## c) `isTest.eth` Developer Tool
+## 💡 `isTest.eth` Developer Tool
 
 | Network | Release | Contract | 
 | -------- | -------- | -------- |
