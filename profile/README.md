@@ -13,7 +13,7 @@
 
 | Release | Link-1 | Link-2 | Link-3 |
 | -------- | -------- | -------- | -------- |
-| **`v1.0.0`** | [`https://NameSys.xyz`](https://namesys.xyz) | [`https://CCIP2.eth.limo`](https://ccip2.eth.limo) | [`https://NameSys.eth.limo`](https://namesys.eth.limo) |
+| **`v1.0.1`** | [`https://NameSys.xyz`](https://namesys.xyz) | [`https://CCIP2.eth.limo`](https://ccip2.eth.limo) | [`https://NameSys.eth.limo`](https://namesys.eth.limo) |
 
 ### 📄&nbsp; Resolver
 
