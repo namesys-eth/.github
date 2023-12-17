@@ -1,4 +1,4 @@
-# `NameSys.eth` Stack
+# [`NameSys.eth`](https://namesys.eth.limo) Stack
 
 ## 📄&nbsp; `NameSys.eth` Documentation
 
@@ -7,7 +7,7 @@
 - [`SUMMARY.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/EASYREAD.md)
 - [`GUIDE.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/GUIDE.md)
 
-## 💡 `CCIP2.eth` Gasless Resolver
+## 💡 `CCIP2.eth` Off-Chain Gasless Resolver
 
 ### ⚙️&nbsp; Clients
 
@@ -38,3 +38,10 @@
 | 🧬 **Mainnet** | `v1.0.0` | [`0x0Db7E56BFE3cbCD7B952F750c303CbF809585C6b`](https://etherscan.io/address/0x0Db7E56BFE3cbCD7B952F750c303CbF809585C6b#code) |
 | 🔗 **Client** | `latest` | [`https://isTest.eth.limo`](https://istest.eth.limo) |
 
+# [`dev3.eth`](https://dev3.eth.limo) Stack
+
+| Network | Release | Contract | 
+| -------- | -------- | -------- |
+| 🧪 **Goerli** | `latest` | [`-`](https://goerli.etherscan.io/address/0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469#code) | 
+| 🧬 **Mainnet** | `v1.0.0` | `-` |
+| 🔗 **CLI** | `v0.3.3-alpha` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) |
