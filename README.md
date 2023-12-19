@@ -1,23 +1,21 @@
 # `NameSys.eth` Stack
 
-## `CCIP2.eth` Gasless Resolver
+## `CCIP2.eth` Off-Chain Resolver
 
-### Client
+Link 1: [`namesys.xyz`](https://namesys.xyz)
 
-Link 1: [`https://NameSys.xyz`](https://namesys.xyz)
+Link 2: [`namesys.eth.limo`](https://namesys.eth.limo)
 
-Link 2: [`https://NameSys.eth.limo`](https://namesys.eth.limo)
-
-Link 3: [`https://CCIP2.eth.limo`](https://ccip2.eth.limo)
+Link 3: [`ccip2.eth.limo`](https://ccip2.eth.limo)
 
 ## `IPFS2.eth` Web3 IPFS Gateway
 
-Link: [`https://IPFS2.eth.limo`](https://ipfs2.eth.limo)
+Link: [`ipfs2.eth.limo`](https://ipfs2.eth.limo)
 
 ## `isTest.eth`
 
-Link: [`https://isTest.eth.limo`](https://istest.eth.limo)
+Link: [`istest.eth.limo`](https://istest.eth.limo)
 
-## `dev3.eth` | `isdev.eth`
+# `dev3.eth` Stack
 
-Link: [`https://dev3.eth.limo`](https://dev3.eth.limo)
+Link: [`dev3.eth.limo`](https://dev3.eth.limo)
