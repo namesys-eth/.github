@@ -7,7 +7,7 @@
 - [`SUMMARY.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/EASYREAD.md)
 - [`GUIDE.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/GUIDE.md)
 
-## 💡 `CCIP2.eth` Off-Chain Gasless Resolver
+## 💡 [`CCIP2.eth`](https://ccip2.eth.limo) Off-Chain Gasless Resolver
 
 ### ⚙️&nbsp; Clients
 
@@ -22,7 +22,7 @@
 | 🧪 **Goerli** | `latest` | [`0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb`](https://goerli.etherscan.io/address/0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb#code) | 
 | 🧬 **Mainnet** | `v1.0.0` | [`0x839B3B540A9572448FD1B2335e0EB09Ac1A02885`](https://etherscan.io/address/0x839B3B540A9572448FD1B2335e0EB09Ac1A02885#code) | 
 
-## 💡 `IPFS2.eth` Web3 IPFS Gateway
+## 💡 [`IPFS2.eth`](https://ipfs2.eth.limo) Web3 IPFS Gateway
 
 | Network | Release | Contract | 
 | -------- | -------- | -------- | 
@@ -30,7 +30,7 @@
 | 🧬 **Mainnet** | `v1.0.0-beta` | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
 | 🔗 **Client** | `latest` | [`https://IPFS2.eth.limo`](https://ipfs2.eth.limo) |
 
-## 💡 `isTest.eth` Developer Tool
+## 💡 [`isTest.eth`](https://istest.eth.limo) Developer Tool
 
 | Network | Release | Contract | 
 | -------- | -------- | -------- |
@@ -42,6 +42,6 @@
 
 | Network | Release | Contract | 
 | -------- | -------- | -------- |
-| 🧪 **Goerli** | `latest` | [`-`](https://goerli.etherscan.io/address/0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469#code) | 
-| 🧬 **Mainnet** | `v1.0.0` | `-` |
-| 🔗 **CLI** | `v0.3.3-alpha` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) |
+| 🧪 **Goerli** | `latest` | [`0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469`](https://goerli.etherscan.io/address/0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469#code) | 
+| 🧬 **Mainnet** | `v1.0.0` | [`0x37ca355e75a72F4f467f780916DdF5dD90A46592`](https://etherscan.io/address/0x0x37ca355e75a72F4f467f780916DdF5dD90A46592#code) |
+| 🔗 **CLI** | `v0.0.3-beta` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) |
