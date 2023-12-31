@@ -1,4 +1,4 @@
-# [`NameSys.eth`](https://namesys.eth.limo) Stack
+# 🔥 [`NameSys.eth`](https://namesys.eth.limo) Stack
 
 ## 📄&nbsp; [`NameSys.eth`](https://namesys.eth.limo) Documentation
 
@@ -7,7 +7,7 @@
 - [`SUMMARY.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/EASYREAD.md)
 - [`GUIDE.md`](https://github.com/namesys-eth/ccip2-eth-resources/blob/main/docs/GUIDE.md)
 
-## 💡 [`CCIP2.eth`](https://ccip2.eth.limo) Off-Chain Resolver
+## 🚀 [`CCIP2.eth`](https://ccip2.eth.limo) Off-Chain Resolver
 
 | &nbsp; | Release | Source | 
 | -------- | -------- | -------- | 
@@ -15,7 +15,7 @@
 | 🧬&nbsp; **Mainnet** | `v1.0.0` | [`0x839B3B540A9572448FD1B2335e0EB09Ac1A02885`](https://etherscan.io/address/0x839B3B540A9572448FD1B2335e0EB09Ac1A02885#code) | 
 | ⚙️&nbsp; **Client** | **`v1.0.1`** | [`namesys.xyz`](https://namesys.xyz) \| [`namesys.eth.limo`](https://namesys.eth.limo) |
 
-## 💡 [`IPFS2.eth`](https://ipfs2.eth.limo) Web3 IPFS Gateway
+## 🚀 [`IPFS2.eth`](https://ipfs2.eth.limo) Web3 IPFS Gateway
 
 | &nbsp; | Release | Source | 
 | -------- | -------- | -------- | 
@@ -23,7 +23,7 @@
 | 🧬&nbsp; **Mainnet** | `v1.0.0-beta` | [`0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048`](https://etherscan.io/address/0xb4BA47783Ff613ec55c9ECdaF38fCF29D7632048#code) | 
 | ⚙️&nbsp; **Client** | `latest` | [`ipfs2.eth.limo`](https://ipfs2.eth.limo) |
 
-## 💡 [`isTest.eth`](https://istest.eth.limo) Developer Tool
+## 🚀 [`isTest.eth`](https://istest.eth.limo) Developer Tool
 
 | &nbsp; | Release | Source |  
 | -------- | -------- | -------- |
@@ -31,7 +31,7 @@
 | 🧬&nbsp; **Mainnet** | `v1.0.0` | [`0x0Db7E56BFE3cbCD7B952F750c303CbF809585C6b`](https://etherscan.io/address/0x0Db7E56BFE3cbCD7B952F750c303CbF809585C6b#code) |
 | ⚙️&nbsp; **Client** | `latest` | [`istest.eth.limo`](https://istest.eth.limo) |
 
-# [`dev3.eth`](https://dev3.eth.limo) Stack
+# 🔥 [`dev3.eth`](https://dev3.eth.limo) Stack
 
 | &nbsp; | Release | Source | 
 | -------- | -------- | -------- |
