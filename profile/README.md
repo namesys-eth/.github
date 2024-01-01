@@ -37,4 +37,4 @@
 | -------- | -------- | -------- |
 | 🧪&nbsp; **Goerli** | `latest` | [`0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469`](https://goerli.etherscan.io/address/0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469#code) | 
 | 🧬&nbsp; **Mainnet** | `v1.0.0` | [`0x37ca355e75a72F4f467f780916DdF5dD90A46592`](https://etherscan.io/address/0x0x37ca355e75a72F4f467f780916DdF5dD90A46592#code) |
-| ⚙️&nbsp; **CLI** | `v0.0.3-beta` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) \| [`dev3.eth.limo`](https://dev3.eth.limo) |
+| ⚙️&nbsp; **CLI** | `v0.0.4-beta` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) \| [`dev3.eth.limo`](https://dev3.eth.limo) |
