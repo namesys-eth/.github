@@ -13,7 +13,7 @@
 | -------- | -------- | -------- | 
 | 🧪&nbsp; **Goerli** | `latest` | [`0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb`](https://goerli.etherscan.io/address/0x3F2521AC2D9ea1bFd6110CA563FcD067E6E47deb#code) | 
 | 🧬&nbsp; **Mainnet** | `v1.0.0` | [`0x839B3B540A9572448FD1B2335e0EB09Ac1A02885`](https://etherscan.io/address/0x839B3B540A9572448FD1B2335e0EB09Ac1A02885#code) | 
-| ⚙️&nbsp; **Client** | **`v1.0.1`** | [`namesys.xyz`](https://namesys.xyz) \| [`namesys.eth.limo`](https://namesys.eth.limo) |
+| ⚙️&nbsp; **Client** | **`latest`** | [`namesys.xyz`](https://namesys.xyz) \| [`namesys.eth.limo`](https://namesys.eth.limo) |
 
 ## 🚀 [`IPFS2.eth`](https://ipfs2.eth.limo) Web3 IPFS Gateway
 
@@ -37,4 +37,4 @@
 | -------- | -------- | -------- |
 | 🧪&nbsp; **Goerli** | `latest` | [`0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469`](https://goerli.etherscan.io/address/0x83c25DbcFD8d79a9E0F9f7f6cFc5b21716ACf469#code) | 
 | 🧬&nbsp; **Mainnet** | `v1.0.0` | [`0x37ca355e75a72F4f467f780916DdF5dD90A46592`](https://etherscan.io/address/0x0x37ca355e75a72F4f467f780916DdF5dD90A46592#code) |
-| ⚙️&nbsp; **CLI** | `v0.0.4-beta` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) \| [`dev3.eth.limo`](https://dev3.eth.limo) |
+| ⚙️&nbsp; **CLI** | `v0.0.6-beta` | [`dev3-eth`](https://www.npmjs.com/package/dev3-eth) \| [`dev3.eth.limo`](https://dev3.eth.limo) |
